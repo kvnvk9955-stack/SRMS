@@ -47,5 +47,5 @@ File handling practice
 Structure and menu-driven program learning
 Demonstrating basic login-based systems
 
-Author: Naga Venkata Sai Sri Lalith Nalam 
+Author: Kolli Venkata Naga Vamsi Krishna
 SRM AP-UNIVERSITY 
