@@ -49,3 +49,7 @@ Demonstrating basic login-based systems
 
 Author: Kolli Venkata Naga Vamsi Krishna
 SRM AP-UNIVERSITY 
+
+## License
+
+This project is for educational purposes as part of an academic course requirement.
